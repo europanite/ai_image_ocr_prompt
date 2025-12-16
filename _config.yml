@@ -1,0 +1,10 @@
+title: "ai_image_ocr_prompt"
+description: "An AI Image OCT Prompt"
+baseurl: "/ai_image_ocr_prompt"
+url: "https://europanite.github.io"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+highlighter: rouge
