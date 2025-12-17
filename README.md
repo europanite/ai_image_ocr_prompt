@@ -3,7 +3,9 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![OS](https://img.shields.io/badge/OS-Linux%20%7C%20macOS%20%7C%20Windows-blue)
 
-An AI Image OCR Prompt.
+!["web_ui"](./assets/images/web_ui.png)
+
+**An AI Image OCR Prompt**.
 
 # Prompt
 
