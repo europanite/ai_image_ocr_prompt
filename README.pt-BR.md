@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "🇺🇸 English"
-permalink: /
-lang: en
+title: "🇧🇷 PT-BR"
+permalink: /pt-BR/
+lang: pt-BR
 ---
 
 # [AI Image OCR Prompt](https://github.com/europanite/ai_image_ocr_prompt "AI Image OCR Prompt")
@@ -13,11 +13,11 @@ lang: en
 |![web_ui](./assets/images/web_ui.png)|
 |:-:|
 
-**An AI Image OCR Prompt**.
+**Um prompt de OCR de imagens com IA**.
 
 # Prompt
 
-Input your image files and text below.
+Insira seus arquivos de imagem e o texto abaixo.
 
 ```markdown
 For each input image files, follow instructions below. 
@@ -28,5 +28,5 @@ For each input image files, follow instructions below.
 
 ---
 
-## License
+## Licença
 - Apache License 2.0

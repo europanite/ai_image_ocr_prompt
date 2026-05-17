@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "🇺🇸 English"
-permalink: /
-lang: en
+title: "🇰🇷 한국어"
+permalink: /ko/
+lang: ko
 ---
 
 # [AI Image OCR Prompt](https://github.com/europanite/ai_image_ocr_prompt "AI Image OCR Prompt")
@@ -13,11 +13,11 @@ lang: en
 |![web_ui](./assets/images/web_ui.png)|
 |:-:|
 
-**An AI Image OCR Prompt**.
+**AI 이미지 OCR 프롬프트**.
 
-# Prompt
+# 프롬프트
 
-Input your image files and text below.
+아래에 이미지 파일과 텍스트를 입력하세요.
 
 ```markdown
 For each input image files, follow instructions below. 
@@ -28,5 +28,5 @@ For each input image files, follow instructions below.
 
 ---
 
-## License
+## 라이선스
 - Apache License 2.0

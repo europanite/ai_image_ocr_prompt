@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "🇺🇸 English"
-permalink: /
-lang: en
+title: "🇮🇳 हिन्दी"
+permalink: /hi/
+lang: hi
 ---
 
 # [AI Image OCR Prompt](https://github.com/europanite/ai_image_ocr_prompt "AI Image OCR Prompt")
@@ -13,11 +13,11 @@ lang: en
 |![web_ui](./assets/images/web_ui.png)|
 |:-:|
 
-**An AI Image OCR Prompt**.
+**AI Image OCR के लिए एक प्रॉम्प्ट**.
 
-# Prompt
+# प्रॉम्प्ट
 
-Input your image files and text below.
+नीचे अपनी image files और text दर्ज करें।
 
 ```markdown
 For each input image files, follow instructions below. 
@@ -28,5 +28,5 @@ For each input image files, follow instructions below.
 
 ---
 
-## License
+## लाइसेंस
 - Apache License 2.0

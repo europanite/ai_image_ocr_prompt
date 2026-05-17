@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "🇺🇸 English"
-permalink: /
-lang: en
+title: "🇨🇳 中文"
+permalink: /zh-CN/
+lang: zh-CN
 ---
 
 # [AI Image OCR Prompt](https://github.com/europanite/ai_image_ocr_prompt "AI Image OCR Prompt")
@@ -13,11 +13,11 @@ lang: en
 |![web_ui](./assets/images/web_ui.png)|
 |:-:|
 
-**An AI Image OCR Prompt**.
+**一个用于 AI 图像 OCR 的提示词**。
 
-# Prompt
+# 提示词
 
-Input your image files and text below.
+请在下方输入你的图像文件和文本。
 
 ```markdown
 For each input image files, follow instructions below. 
@@ -28,5 +28,5 @@ For each input image files, follow instructions below.
 
 ---
 
-## License
+## 许可证
 - Apache License 2.0
