@@ -1,6 +1,6 @@
-title: "ai_image_ocr_prompt"
+title: "ai-image-ocr-prompt"
 description: "An AI Image OCT Prompt"
-baseurl: "/ai_image_ocr_prompt"
+baseurl: "/ai-image-ocr-prompt"
 url: "https://europanite.github.io"
 theme: minima
 markdown: kramdown
